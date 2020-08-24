@@ -1,0 +1,28 @@
+{
+  "name": "layouts-yr",
+  "version": "1.0.0",
+  "description": "again screen",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costar011/node-layouts-yr.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/costar011/node-layouts-yr/issues"
+  },
+  "homepage": "https://github.com/costar011/node-layouts-yr#readme",
+  "dependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0"
+  }
+}
