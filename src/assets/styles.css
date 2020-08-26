@@ -3,3 +3,10 @@
 body {
   overflow: hidden;
 }
+
+.top .top__col1 {
+  width: 600px;
+  height: 100px;
+
+  background-color: aquamarine;
+}
