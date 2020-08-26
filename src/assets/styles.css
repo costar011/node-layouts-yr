@@ -9,4 +9,18 @@ body {
   height: 100px;
 
   background-color: aquamarine;
+
+  display: flex;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+}
+
+.main .main__col1 {
+  width: 800px;
+  height: 90vh;
+
+  background-color: bisque;
 }
