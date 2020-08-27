@@ -15,7 +15,7 @@ body {
   width: 800px;
   height: 100px;
 
-  background-color: aquamarine;
+  background-color: #a4b0be;
 }
 
 .main {
@@ -27,19 +27,19 @@ body {
   width: 680px;
   height: 90vh;
 
-  background-color: bisque;
+  background-color: #747d8c;
 }
 
 .main .main__col2 {
   width: 380px;
   height: 90vh;
 
-  background-color: blue;
+  background-color: #57606f;
 }
 
 .main .main__col3 {
   width: 380px;
   height: 90vh;
 
-  background-color: khaki;
+  background-color: #2f3542;
 }
